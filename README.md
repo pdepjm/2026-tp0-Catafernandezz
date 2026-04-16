@@ -14,6 +14,5 @@ Toda mi familia es ingeniera, pero lo divertido es que cada uno tiene un área d
 Y para añadir algo mas, tengo una mazcota llamada Bowie. 
 
 ## Foto
-## Foto
 <img src="https://github.com/user-attachments/assets/403fd0c7-0022-4b67-83d9-a48a7fe96bc3" width="300"/>
 
